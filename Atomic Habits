@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atomic Habits Summary</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Atomic Habits - Summary</h1>
+        <nav>
+            <a href="index.html">Home</a>
+        </nav>
+    </header>
+    <main>
+        <h2>Key Takeaways</h2>
+        <p>Atomic Habits by James Clear teaches how small changes lead to massive improvements.</p>
+        <h3>1% Better Every Day</h3>
+        <p>Improve by 1% daily to achieve exponential growth over time.</p>
+    </main>
+    <footer>
+        <p>&copy; 2025 The Intellectuals</p>
+    </footer>
+</body>
+</html>
